@@ -3,10 +3,10 @@ Employee-Attrition-Performance
 Attrition in an Organization || Why Workers Quit?
 Employees are the backbone of the organization. Organization's performance is heavily based on the quality of the employees. Challenges that an organization has to face due       employee attrition are:
 
-1.Expensive in terms of both money and time to train new employees.
-2.Loss of experienced employees
-3.Impact in productivity
-4.Impact profit
+1.Expensive in terms of both money and time to train new employees.<br>
+2.Loss of experienced employees<br>
+3.Impact in productivity<br>
+4.Impact profit<br>
 
 Before getting our hands dirty with the data, first step is to frame the business question. Having clarity on below questions is very crucial because the solution that is being developed will make sense only if we have well stated problem.
 
