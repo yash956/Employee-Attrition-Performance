@@ -10,7 +10,7 @@ Employees are the backbone of the organization. Organization's performance is he
 
 Before getting our hands dirty with the data, first step is to frame the business question. Having clarity on below questions is very crucial because the solution that is being developed will make sense only if we have well stated problem.<br>
 
-Business questions to brainstorm:
+Business questions to brainstorm: <br>
 1.What factors are contributing more to employee attrition?<br>
 2.What type of measures should the company take in order to retain their employees?<br>
 3.What business value does the model bring?<br>
