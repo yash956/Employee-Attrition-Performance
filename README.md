@@ -8,11 +8,11 @@ Employees are the backbone of the organization. Organization's performance is he
 3.Impact in productivity<br>
 4.Impact profit<br>
 
-Before getting our hands dirty with the data, first step is to frame the business question. Having clarity on below questions is very crucial because the solution that is being developed will make sense only if we have well stated problem.
+Before getting our hands dirty with the data, first step is to frame the business question. Having clarity on below questions is very crucial because the solution that is being developed will make sense only if we have well stated problem.<br>
 
 Business questions to brainstorm:
-1.What factors are contributing more to employee attrition?
-2.What type of measures should the company take in order to retain their employees?
-3.What business value does the model bring?
-4.Will the model save lots of money?
+1.What factors are contributing more to employee attrition?<br>
+2.What type of measures should the company take in order to retain their employees?<br>
+3.What business value does the model bring?<br>
+4.Will the model save lots of money?<br>
 5.Which business unit faces the attrition problem?
